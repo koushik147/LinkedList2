@@ -1,3 +1,5 @@
+#Time_Complexity: O(n) 
+#Space_Complexity : O(1)
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
